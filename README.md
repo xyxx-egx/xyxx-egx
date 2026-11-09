@@ -32,12 +32,10 @@
 
 ---
 
-### 📈 GitHub Stats
+### 📈 Streak Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xyxx-egx&show_icons=true&theme=radical" alt="vxc1ph's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xyxx-egx&theme=radical&hide_border=true" alt="vxc1ph's Streak Stats" />
 </div>
-
----
 
 <div align="center">
   <i>"I am not a hacker. I am just someone who sees the cracks in the code."</i>
