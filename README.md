@@ -1,20 +1,20 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=500&color=FF003C&center=true&vCenter=true&width=500&lines=Hello,+World.;I+am+vxc1ph.;Red+Team+Operator.;Blackhat+Enthusiast." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=500&color=FF003C&center=true&vCenter=true&width=500&lines=whitehat,+cyber.;I+am+vxc1ph.;Red+Team+Operator.;Blackhat+Enthusiast." alt="Typing SVG" />
 </div>
 
 <h3 align="center">The quieter you become, the more you are able to hear.</h3>
 
 ---
 
-### 👨‍💻 About Me
-- 🔭 Currently building **Offensive Security Tools** & **Custom C2 Frameworks**.
-- 🌱 Deep diving into **Kernel Exploitation**, **Malware Development**, and **Network Penetration**.
-- 💀 I don't believe in "unhackable" systems. I believe in "not enough time yet".
-- ⚡ Fun fact: My server runs on 1.8GB RAM, but it can break yours.
+### Me
+- Currently building **Offensive Security Tools** & **Custom C2 Frameworks**.
+-  Deep diving into **Kernel Exploitation**, **Malware Development**, and **Network Penetration**.
+-  I don't believe in "unhackable" systems. I believe in "not enough time yet".
+- Fun fact: My server runs on 1.8GB RAM, but it can break yours.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### Tech Stack & Tools
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -32,7 +32,7 @@
 
 ---
 
-### 📈 Streak Stats
+### Streak Stats
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=xyxx-egx&theme=radical&hide_border=true" alt="vxc1ph's Streak Stats" />
 </div>
